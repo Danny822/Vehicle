@@ -1,0 +1,28 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cors-anywhere": "^0.4.1",
+    "crs": "^0.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "express-mysql-session": "^2.1.0",
+    "express-session": "^1.16.1",
+    "fs": "0.0.1-security",
+    "moment-timezone": "^0.5.25",
+    "multer": "^1.4.1",
+    "multiparty": "^4.2.1",
+    "mysql": "^2.17.1",
+    "utils": "^0.3.1",
+    "uuid": "^3.3.2"
+  }
+}
